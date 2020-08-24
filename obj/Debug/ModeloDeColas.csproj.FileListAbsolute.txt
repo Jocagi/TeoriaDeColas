@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ModeloDeColas\bin\Debug\ModeloDeColas.exe.config
+C:\Users\user\Desktop\ModeloDeColas\bin\Debug\ModeloDeColas.exe
+C:\Users\user\Desktop\ModeloDeColas\bin\Debug\ModeloDeColas.pdb
+C:\Users\user\Desktop\ModeloDeColas\obj\Debug\ModeloDeColas.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ModeloDeColas\obj\Debug\ModeloDeColas.Properties.Resources.resources
+C:\Users\user\Desktop\ModeloDeColas\obj\Debug\ModeloDeColas.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ModeloDeColas\obj\Debug\ModeloDeColas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ModeloDeColas\obj\Debug\ModeloDeColas.exe
+C:\Users\user\Desktop\ModeloDeColas\obj\Debug\ModeloDeColas.pdb
+C:\Users\user\Desktop\ModeloDeColas\obj\Debug\ModeloDeColas.Formulas1.resources
